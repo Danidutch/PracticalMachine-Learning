@@ -1,5 +1,5 @@
 # Project week 4 -  Practical Machine-Learning
-
+http://rpubs.com/Danidutch/454990
 
 Introduction
 The goal of this project was to use data from accelerometers on the belt, forearm, arm, and dumbel to determine how well a participant was performing barbell lifts. To provide input information, six participants were asked to perform barbell lifts correctly and incorrectly in 5 different ways.
